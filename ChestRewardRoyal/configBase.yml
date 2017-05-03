@@ -1,0 +1,46 @@
+drops:
+  '1':
+    name: '&eSucre d''orge'
+    material: 317
+    amount: 1
+    rate: 20
+  '2':
+    name: '&6Mercure'
+    material: 314
+    amount: 1
+    rate: 40
+  '3':
+    name: '&cPlutonium'
+    material: 313
+    amount: 1
+    rate: 20
+  '4':
+    name: '&cRelique de vie'
+    material: 312
+    amount: 1
+    rate: 10
+  '5':
+    name: "&cBonnet du p\xe8re no\xebl"
+    material: 311
+    rate: 2
+    enchantment: P4
+  '6':
+    name: "&cManteau du p\xe8re no\xebl"
+    material: 311
+    rate: 2
+    enchantment: P4
+  '7':
+    name: "&cPantalon du p\xe8re no\xebl"
+    material: 310
+    rate: 2
+    enchantment: P4
+  '8':
+    name: "&cBottes du p\xe8re no\xebl"
+    material: 298
+    rate: 2
+    enchantment: P4
+  '9':
+    name: "&cEpee du p\xe8re no\xebl"
+    material: 276
+    rate: 2
+    enchantment: T5

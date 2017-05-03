@@ -1,0 +1,9 @@
+name: ChestRewardRoyal
+main: fr.hiredream.chestrewardroyal.Main
+version: 1.0.0
+description: Safety award as Clash Royal
+author: HireDream
+
+commands:
+  crr:
+    description: Principal command of ChestRewardRoyal

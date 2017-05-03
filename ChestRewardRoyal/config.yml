@@ -1,0 +1,14 @@
+chests:
+  standardChest:
+    name: "&aStandard &rChest"
+    maxOpenCase: 4
+  magicChest:
+    name: "&dMagic &rChest"
+    maxOpenCase: 6
+  epicChest:
+    name: "&5Epic &rChest"
+    maxOpenCase: 8
+  legendaryChest:
+    name: "&6Légendary &rChest"
+    maxOpenCase: 10
+preventMessage: "&c/!\\ Warning, recover all the items of the chest or they will be lost forever !"
